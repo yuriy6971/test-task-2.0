@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-task-2.0/static/css/main.afe5ba92.css",
+    "main.js": "/test-task-2.0/static/js/main.88d90493.js",
+    "static/js/787.eacf9995.chunk.js": "/test-task-2.0/static/js/787.eacf9995.chunk.js",
+    "static/media/fone_image.jpg": "/test-task-2.0/static/media/fone_image.2b96e77397bde68acc87.jpg",
+    "static/media/Logo.svg": "/test-task-2.0/static/media/Logo.5a0a20f72736258823f8e7d79340cde1.svg",
+    "static/media/nunito-v24-latin-regular.woff": "/test-task-2.0/static/media/nunito-v24-latin-regular.ca52c044715c95fdd0d8.woff",
+    "static/media/nunito-v24-latin-regular.woff2": "/test-task-2.0/static/media/nunito-v24-latin-regular.b8644b6e04ecda1cf98b.woff2",
+    "index.html": "/test-task-2.0/index.html",
+    "static/media/loader.svg": "/test-task-2.0/static/media/loader.07376166b2d5a2649342e9f5104a13a1.svg",
+    "main.afe5ba92.css.map": "/test-task-2.0/static/css/main.afe5ba92.css.map",
+    "main.88d90493.js.map": "/test-task-2.0/static/js/main.88d90493.js.map",
+    "787.eacf9995.chunk.js.map": "/test-task-2.0/static/js/787.eacf9995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe5ba92.css",
+    "static/js/main.88d90493.js"
+  ]
+}
